@@ -1,0 +1,3 @@
+,best_params
+Ridge,{'m__alpha': 0.001}
+Random Forest,"{'m__max_depth': 12, 'm__n_estimators': 300}"
